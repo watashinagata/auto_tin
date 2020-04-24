@@ -1,1 +1,2 @@
-# auto_tin
+# auto_tinder
+
